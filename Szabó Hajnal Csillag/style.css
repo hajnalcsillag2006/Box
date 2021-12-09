@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+.logo{
+    display:block;
+    margin:auto;
+}
+
+body{
+
+    background-image: url("Képek/háttér.png");
+}
